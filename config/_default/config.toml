@@ -1,5 +1,5 @@
 # Change baseurl before deploy
-baseurl = "https://demo.stack.jimmycai.com"
+baseurl = "https://aduno.github.io/personal-blog"
 languageCode = "en-us"
 title = "Aduno's Portfolio"
 
